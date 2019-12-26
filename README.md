@@ -51,3 +51,5 @@ So, we need to maximize the sigmoid function which is defined as
 Maximizing some function f(x) is same as minimizing this function with -ve sign. I.e. argmax f(x) = argmin -f(x) and if we take log (we will discuss why use log in the loss minimization interpretation) then the final formulation becomes-
 
 ![fig5](https://miro.medium.com/max/435/1*cn36YTmxe1vmfeAxsefnZg.png)
+
+<h3>Credits :</h3> https://medium.com/@premvardhankumar/a-deep-understanding-of-logistic-regression-with-geometric-probabilistic-and-loss-minimization-2ced042bdcc7
